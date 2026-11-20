@@ -1,0 +1,13 @@
+period_id,organic_pct,core_gm_pct,core_sga_pct,core_op_margin_pct,core_eps,diluted_shares,source
+FY24Q1,7,52.0,25.6,26.4,1.83,2475.2,PG_FY24Q1_release.pdf
+FY24Q2,4,52.7,25.7,27.0,1.84,2468.4,PG_FY24Q2_release.pdf
+FY24Q3,3,51.3,29.1,22.1,1.52,2472.0,PG_FY24Q3_release.pdf
+FY24Q4,2,49.8,30.5,19.3,1.40,2472.2,PG_FY24Q4_release.pdf
+FY25Q1,2,52.0,25.3,26.7,1.93,2466.0,PG_FY25Q1_release.pdf
+FY25Q2,3,52.4,26.2,26.2,1.88,2458.1,PG_FY25Q2_release.pdf
+FY25Q3,1,51.0,27.9,23.0,1.54,2449.8,PG_FY25Q3_release.pdf
+FY25Q4,2,49.1,28.3,20.8,1.48,2443.8,PG_FY25Q4_release.pdf
+FY26Q1,2,51.5,24.9,26.7,1.99,2436.8,PG_FY26Q1_release.pdf
+FY26Q2,0,51.9,26.4,25.5,1.88,2424.0,PG_FY26Q2_release.pdf
+FY26Q3,3,50.0,27.8,22.2,1.59,2416.5,PG_FY26Q3_release.pdf
+FY26Q4,0,49.1,29.6,19.5,1.43,2412.7,PG_FY26Q4_release.pdf
